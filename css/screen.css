@@ -1,0 +1,14 @@
+body {
+  background: #EEE8AA;
+}
+body .text {
+  font-size: 30px;
+  padding-left: 130px;
+  background: greenyellow;
+}
+body .pictures {
+  width: 360px;
+}
+body .pictures img {
+  width: 350px;
+}
